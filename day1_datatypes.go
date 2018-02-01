@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func dataTypes() {
 	var _ = strconv.Itoa // Ignore this comment. You can still use the package "strconv".
 
 	var i uint64 = 4
