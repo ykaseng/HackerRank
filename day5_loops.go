@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func loops() {
 	//Enter your code here. Read input from STDIN. Print output to STDOUT
 	var input int
 	fmt.Scanf("%d", &input)
