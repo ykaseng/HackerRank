@@ -41,7 +41,7 @@ func (p person) yearPasses() person {
 	return p
 }
 
-func main() {
+func classInstance() {
 	var T, age int
 
 	fmt.Scan(&T)
