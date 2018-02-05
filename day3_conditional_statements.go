@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func conditionalStatements() {
 	var n int
 	fmt.Scanf("%d\n", &n)
 
