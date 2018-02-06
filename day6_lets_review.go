@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main() {
+func review() {
 	var testCases int
 	fmt.Scanf("%d", &testCases)
 
